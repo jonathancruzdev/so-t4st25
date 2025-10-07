@@ -12,6 +12,8 @@ header {
 }
 
 main {
+    background-color: rgb(18, 18, 18);
+    color: white;
     min-height: 75vh;
 }
 
