@@ -4,7 +4,7 @@
 
 header {
     height: 15vh;
-    background-color: teal;
+    background-color: rgb(6, 93, 93);
     color: white;
     display: flex;
     justify-content: center;
@@ -12,6 +12,8 @@ header {
 }
 
 main {
+    background-color: rgb(18, 18, 18);
+    color: white;
     min-height: 75vh;
 }
 
