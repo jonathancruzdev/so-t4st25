@@ -24,3 +24,8 @@
 ``` bash
     git add .
 ```
+
+**4.Creamos el commit**
+``` bash
+    git commit -m "Nombre cambio"
+```
